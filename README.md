@@ -2,7 +2,7 @@
 
 Sistema de gestión de tareas:
 
-- Usa Python 3.6+ y PyQt6 para la interfaz gráfica moderna
+- Usa Python 3.6+ y PyQt6 para la interfaz gráfica
 - Implementa POO con clases como Task, DatabaseManager, TaskManagerUI
 - Usa herencia (TaskWorker hereda de QThread) y encapsulamiento
 - Implementa programación funcional con decoradores y funciones de orden superior
